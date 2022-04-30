@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaniruddh03
 - 👀 I’m interested in ...Full Stack Web Development  
-- 🌱 I’m currently learning ...Bootstrap  
+- 🌱 I’m currently learning  BackEnd Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
