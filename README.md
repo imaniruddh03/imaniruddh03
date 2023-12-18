@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @imaniruddh03
-- 👀 I’m interested in ...Full Stack Web Development  
+- 👀 I’m interested in ... Front-End Development  
 - 🌱 I’m currently learning  BackEnd Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Contact me on linkedin
 
 <!---
 imaniruddh03/imaniruddh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
